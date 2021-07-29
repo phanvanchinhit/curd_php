@@ -6,4 +6,4 @@
 > Không áp dụng mô hình gì đâu ná
 >> Anh em down về thì chạy file index.php gốc ở ngoài thư mục nhá,
 >>>| Anh em nhớ đổi port nha
->>***Hạn vào ngày mai rồi anh em cố gắng làm nhanh nhá (31/07/2021)***
+>>>>***Hạn vào ngày mai rồi anh em cố gắng làm nhanh nhá (31/07/2021)***
