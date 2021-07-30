@@ -7,6 +7,8 @@
  */
 
 include_once(__DIR__.'../../connect.php');
+?>
+<?php
 if(isset($_REQUEST['MaSanPham']) and $_REQUEST['MaSanPham']!=""){
     $MaSanPham=$_GET['MaSanPham'];
     $sql = "DELETE FROM sanpham WHERE MaSanPham='$MaSanPham'";
