@@ -27,7 +27,11 @@ $rows = mysqli_fetch_all($query);
             </div>
             </li>
             <li class="nav-item">
+<<<<<<< HEAD
                 <a class="nav-link" href="http://localhost:<?php echo $PORT; ?>/crud_php/pages/shopping/index.php">Giỏ hàng</a>
+=======
+                <a class="nav-link" href="#">Giỏ hàng</a>
+>>>>>>> df1e9556ba6e6379e503424d7e683efdb901aa11
             </li>
         </ul>
     </div>
